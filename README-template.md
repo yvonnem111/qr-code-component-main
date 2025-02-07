@@ -41,6 +41,27 @@ This is a screenshot of my solution.
 ### What I learned
 
 That practice makes perfect.
+this is how I would have done it before with margin and text center
+a more simple solution would have been this:
+
+``` html
+<div class="card">
+    <img src="assets\imgs\image-qr-code.png">
+    <h3>Improve your front-end skills by building projects</h3>
+    <p>Scan the QR code to visit Frontend Mentor and take your coding skills to the next level</p>
+  </div>
+```
+```css
+.card {
+	padding: 12px;
+	background-color: hsl(0, 0%, 100%);
+	border-radius: 15px;
+	margin-top: 150px;
+	width: 270px;
+	margin: 0 auto;
+	text-align: center;
+}
+```
 
 ### Continued development
 
