@@ -25,6 +25,7 @@
     padding-bottom: 80px
 
   }
+
   .main-section{
     background-color: white;
     border-radius: 15px;
@@ -42,11 +43,11 @@ img {
     width: 288px;
     height: 288px;
     border-radius: 20px;
-  
 }
 .main-copy{
     padding: 0 30px;
 }
+
 h1 , p {
     text-align:center;
 }
